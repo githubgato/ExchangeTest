@@ -1,0 +1,14 @@
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\GetMailFromExchange.exe
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\obj\Debug\netcoreapp3.0\GetMailFromExchange.AssemblyInfoInputs.cache
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\obj\Debug\netcoreapp3.0\GetMailFromExchange.AssemblyInfo.cs
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\GetMailFromExchange.deps.json
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\GetMailFromExchange.runtimeconfig.json
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\GetMailFromExchange.runtimeconfig.dev.json
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\GetMailFromExchange.dll
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\GetMailFromExchange.pdb
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\bin\Debug\netcoreapp3.0\Microsoft.Exchange.WebServices.dll
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\obj\Debug\netcoreapp3.0\GetMailFromExchange.csprojAssemblyReference.cache
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\obj\Debug\netcoreapp3.0\GetMailFromExchange.csproj.CopyComplete
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\obj\Debug\netcoreapp3.0\GetMailFromExchange.dll
+C:\Users\Jun.Hong\source\repos\GetMailFromExchange\GetMailFromExchange\obj\Debug\netcoreapp3.0\GetMailFromExchange.pdb
